@@ -1,2 +1,2 @@
 #!/bin/bash
-9-duplicate_last_line
+tail -n 1 iacta | cat >> iacta
